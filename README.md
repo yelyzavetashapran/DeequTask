@@ -37,3 +37,9 @@ Hi! It's my realization on Deequ task for program DQE Intermediate Level.
 ![image](https://user-images.githubusercontent.com/104168878/234369879-073edbab-3169-4e3a-a34b-e9582d07d295.png)
 
   2.4. Run cells one-by-one to see results.
+
+# Report for constraints verification step:
+
+![image](https://user-images.githubusercontent.com/104168878/234371314-f8d78f35-2005-4588-9f12-d62bb70a2149.png)
+
+That's it! Thank you for your attention!
